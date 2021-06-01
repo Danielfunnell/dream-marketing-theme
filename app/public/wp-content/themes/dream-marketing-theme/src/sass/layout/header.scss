@@ -1,0 +1,37 @@
+.hero {
+        height: 100vh;
+        top: 0;
+        left: 0;
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        z-index: -1000;
+        display:flex;
+        justify-content: center;
+        align-items: center;
+
+
+        &__text-box a{
+            margin-top: .5rem;
+            margin-right: .5rem;
+
+        }
+
+        &__heading-primary{
+            text-align: center;
+            color: white;
+        }
+}
+
+.header-inner {
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), 
+    url(./../../src/img/tailored1.jpg);
+    height:65vh;
+    background-size: cover;
+    background-position:top;
+    background-attachment: fixed;
+    z-index: -1000;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}

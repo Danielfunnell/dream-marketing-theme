@@ -1,0 +1,28 @@
+.navigation {
+    position:relative;
+    background-color: rgba(255, 255, 255, 0.9);
+    
+    
+    &__logo{
+        height: 75px;
+        margin-left: 1rem;
+    }
+
+    &__link{
+        color: black !important;
+        text-decoration: none;
+        text-transform: uppercase;
+        margin-right: 1rem;
+        padding: .5rem 0;
+        transform: border-bottom 0.2s;
+       
+
+        &:hover{
+            text-decoration: none;
+            margin-top: 5px;
+            border-bottom: 2px solid $color-primary;
+            transition: border-bottom 0.2s, color 0.2s;
+           
+        }
+    }
+}

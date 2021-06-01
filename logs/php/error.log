@@ -1,0 +1,539 @@
+[27-May-2021 20:29:36 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\page.php on line 8
+[27-May-2021 20:30:03 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\page.php on line 8
+[27-May-2021 20:50:02 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\functions.php on line 5
+[27-May-2021 20:50:02 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\functions.php on line 5
+[27-May-2021 20:50:19 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\functions.php on line 5
+[27-May-2021 20:50:19 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\functions.php on line 5
+[27-May-2021 20:50:22 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\functions.php on line 5
+[27-May-2021 20:50:22 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\functions.php on line 5
+[27-May-2021 20:51:09 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\functions.php on line 5
+[27-May-2021 20:51:09 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\functions.php on line 5
+[27-May-2021 20:52:17 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\functions.php on line 5
+[27-May-2021 20:52:17 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\functions.php on line 5
+[27-May-2021 20:52:32 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\functions.php on line 5
+[27-May-2021 20:52:32 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\functions.php on line 5
+[30-May-2021 11:52:43 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 131
+[30-May-2021 11:52:43 UTC] PHP Stack trace:
+[30-May-2021 11:52:43 UTC] PHP   1. {main}() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:0
+[30-May-2021 11:52:43 UTC] PHP   2. require() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:17
+[30-May-2021 11:52:43 UTC] PHP   3. require_once() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php:19
+[30-May-2021 11:52:43 UTC] PHP   4. include() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php:106
+[30-May-2021 11:52:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_field() in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php:132
+Stack trace:
+#0 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php(19): require_once('C:\\Users\\danie\\...')
+#2 C:\Users\danie\Local Sites\dreammarketing\app\public\index.php(17): require('C:\\Users\\danie\\...')
+#3 {main}
+  thrown in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 132
+[30-May-2021 11:54:19 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 131
+[30-May-2021 11:54:19 UTC] PHP Stack trace:
+[30-May-2021 11:54:19 UTC] PHP   1. {main}() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:0
+[30-May-2021 11:54:19 UTC] PHP   2. require() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:17
+[30-May-2021 11:54:19 UTC] PHP   3. require_once() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php:19
+[30-May-2021 11:54:19 UTC] PHP   4. include() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php:106
+[30-May-2021 11:54:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_field() in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php:132
+Stack trace:
+#0 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php(19): require_once('C:\\Users\\danie\\...')
+#2 C:\Users\danie\Local Sites\dreammarketing\app\public\index.php(17): require('C:\\Users\\danie\\...')
+#3 {main}
+  thrown in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 132
+[30-May-2021 11:55:15 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 130
+[30-May-2021 11:55:15 UTC] PHP Stack trace:
+[30-May-2021 11:55:15 UTC] PHP   1. {main}() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:0
+[30-May-2021 11:55:15 UTC] PHP   2. require() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:17
+[30-May-2021 11:55:15 UTC] PHP   3. require_once() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php:19
+[30-May-2021 11:55:15 UTC] PHP   4. include() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php:106
+[30-May-2021 11:55:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_field() in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php:131
+Stack trace:
+#0 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php(19): require_once('C:\\Users\\danie\\...')
+#2 C:\Users\danie\Local Sites\dreammarketing\app\public\index.php(17): require('C:\\Users\\danie\\...')
+#3 {main}
+  thrown in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 131
+[30-May-2021 11:57:53 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 129
+[30-May-2021 11:57:53 UTC] PHP Stack trace:
+[30-May-2021 11:57:53 UTC] PHP   1. {main}() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:0
+[30-May-2021 11:57:53 UTC] PHP   2. require() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:17
+[30-May-2021 11:57:53 UTC] PHP   3. require_once() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php:19
+[30-May-2021 11:57:53 UTC] PHP   4. include() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php:106
+[30-May-2021 11:57:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_field() in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php:130
+Stack trace:
+#0 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php(19): require_once('C:\\Users\\danie\\...')
+#2 C:\Users\danie\Local Sites\dreammarketing\app\public\index.php(17): require('C:\\Users\\danie\\...')
+#3 {main}
+  thrown in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 130
+[30-May-2021 11:59:32 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 129
+[30-May-2021 11:59:32 UTC] PHP Stack trace:
+[30-May-2021 11:59:32 UTC] PHP   1. {main}() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:0
+[30-May-2021 11:59:32 UTC] PHP   2. require() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:17
+[30-May-2021 11:59:32 UTC] PHP   3. require_once() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php:19
+[30-May-2021 11:59:32 UTC] PHP   4. include() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php:106
+[30-May-2021 11:59:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_field() in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php:130
+Stack trace:
+#0 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php(19): require_once('C:\\Users\\danie\\...')
+#2 C:\Users\danie\Local Sites\dreammarketing\app\public\index.php(17): require('C:\\Users\\danie\\...')
+#3 {main}
+  thrown in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 130
+[30-May-2021 12:02:25 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 129
+[30-May-2021 12:02:25 UTC] PHP Stack trace:
+[30-May-2021 12:02:25 UTC] PHP   1. {main}() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:0
+[30-May-2021 12:02:25 UTC] PHP   2. require() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:17
+[30-May-2021 12:02:25 UTC] PHP   3. require_once() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php:19
+[30-May-2021 12:02:25 UTC] PHP   4. include() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php:106
+[30-May-2021 12:02:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_field() in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php:130
+Stack trace:
+#0 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php(19): require_once('C:\\Users\\danie\\...')
+#2 C:\Users\danie\Local Sites\dreammarketing\app\public\index.php(17): require('C:\\Users\\danie\\...')
+#3 {main}
+  thrown in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 130
+[30-May-2021 12:02:32 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 129
+[30-May-2021 12:02:32 UTC] PHP Stack trace:
+[30-May-2021 12:02:32 UTC] PHP   1. {main}() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:0
+[30-May-2021 12:02:32 UTC] PHP   2. require() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:17
+[30-May-2021 12:02:32 UTC] PHP   3. require_once() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php:19
+[30-May-2021 12:02:32 UTC] PHP   4. include() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php:106
+[30-May-2021 12:02:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_field() in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php:130
+Stack trace:
+#0 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php(19): require_once('C:\\Users\\danie\\...')
+#2 C:\Users\danie\Local Sites\dreammarketing\app\public\index.php(17): require('C:\\Users\\danie\\...')
+#3 {main}
+  thrown in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 130
+[30-May-2021 12:02:57 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 129
+[30-May-2021 12:02:57 UTC] PHP Stack trace:
+[30-May-2021 12:02:57 UTC] PHP   1. {main}() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:0
+[30-May-2021 12:02:57 UTC] PHP   2. require() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:17
+[30-May-2021 12:02:57 UTC] PHP   3. require_once() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php:19
+[30-May-2021 12:02:57 UTC] PHP   4. include() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php:106
+[30-May-2021 12:02:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_field() in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php:130
+Stack trace:
+#0 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php(19): require_once('C:\\Users\\danie\\...')
+#2 C:\Users\danie\Local Sites\dreammarketing\app\public\index.php(17): require('C:\\Users\\danie\\...')
+#3 {main}
+  thrown in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 130
+[30-May-2021 12:13:42 UTC] PHP Parse error:  syntax error, unexpected 'add_action' (T_STRING) in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\functions.php on line 17
+[30-May-2021 12:13:47 UTC] PHP Parse error:  syntax error, unexpected 'add_action' (T_STRING) in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\functions.php on line 17
+[30-May-2021 12:13:47 UTC] PHP Parse error:  syntax error, unexpected 'add_action' (T_STRING) in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\functions.php on line 17
+[30-May-2021 12:14:04 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function add_action(), 1 passed in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\functions.php on line 15 and at least 2 expected in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\plugin.php:409
+Stack trace:
+#0 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\functions.php(15): add_action('after_setup_the...')
+#1 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-settings.php(528): include('C:\\Users\\danie\\...')
+#2 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-config.php(77): require_once('C:\\Users\\danie\\...')
+#3 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-load.php(37): require_once('C:\\Users\\danie\\...')
+#4 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php(13): require_once('C:\\Users\\danie\\...')
+#5 C:\Users\danie\Local Sites\dreammarketing\app\public\index.php(17): require('C:\\Users\\danie\\.. in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\plugin.php on line 409
+[30-May-2021 12:14:04 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function add_action(), 1 passed in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\functions.php on line 15 and at least 2 expected in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\plugin.php:409
+Stack trace:
+#0 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\functions.php(15): add_action('after_setup_the...')
+#1 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-settings.php(528): include('C:\\Users\\danie\\...')
+#2 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-config.php(77): require_once('C:\\Users\\danie\\...')
+#3 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-load.php(37): require_once('C:\\Users\\danie\\...')
+#4 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php(13): require_once('C:\\Users\\danie\\...')
+#5 C:\Users\danie\Local Sites\dreammarketing\app\public\index.php(17): require('C:\\Users\\danie\\.. in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\plugin.php on line 409
+[30-May-2021 12:14:40 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 129
+[30-May-2021 12:14:40 UTC] PHP Stack trace:
+[30-May-2021 12:14:40 UTC] PHP   1. {main}() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:0
+[30-May-2021 12:14:40 UTC] PHP   2. require() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:17
+[30-May-2021 12:14:40 UTC] PHP   3. require_once() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php:19
+[30-May-2021 12:14:40 UTC] PHP   4. include() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php:106
+[30-May-2021 12:14:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_field() in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php:130
+Stack trace:
+#0 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php(19): require_once('C:\\Users\\danie\\...')
+#2 C:\Users\danie\Local Sites\dreammarketing\app\public\index.php(17): require('C:\\Users\\danie\\...')
+#3 {main}
+  thrown in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 130
+[30-May-2021 12:14:52 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 129
+[30-May-2021 12:14:52 UTC] PHP Stack trace:
+[30-May-2021 12:14:52 UTC] PHP   1. {main}() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:0
+[30-May-2021 12:14:52 UTC] PHP   2. require() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:17
+[30-May-2021 12:14:52 UTC] PHP   3. require_once() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php:19
+[30-May-2021 12:14:52 UTC] PHP   4. include() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php:106
+[30-May-2021 12:14:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_field() in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php:130
+Stack trace:
+#0 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php(19): require_once('C:\\Users\\danie\\...')
+#2 C:\Users\danie\Local Sites\dreammarketing\app\public\index.php(17): require('C:\\Users\\danie\\...')
+#3 {main}
+  thrown in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 130
+[30-May-2021 12:14:55 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 129
+[30-May-2021 12:14:55 UTC] PHP Stack trace:
+[30-May-2021 12:14:55 UTC] PHP   1. {main}() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:0
+[30-May-2021 12:14:55 UTC] PHP   2. require() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:17
+[30-May-2021 12:14:55 UTC] PHP   3. require_once() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php:19
+[30-May-2021 12:14:55 UTC] PHP   4. include() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php:106
+[30-May-2021 12:14:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_field() in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php:130
+Stack trace:
+#0 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php(19): require_once('C:\\Users\\danie\\...')
+#2 C:\Users\danie\Local Sites\dreammarketing\app\public\index.php(17): require('C:\\Users\\danie\\...')
+#3 {main}
+  thrown in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 130
+[30-May-2021 12:15:09 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 129
+[30-May-2021 12:15:09 UTC] PHP Stack trace:
+[30-May-2021 12:15:09 UTC] PHP   1. {main}() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:0
+[30-May-2021 12:15:09 UTC] PHP   2. require() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:17
+[30-May-2021 12:15:09 UTC] PHP   3. require_once() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php:19
+[30-May-2021 12:15:09 UTC] PHP   4. include() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php:106
+[30-May-2021 12:15:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_field() in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php:130
+Stack trace:
+#0 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php(19): require_once('C:\\Users\\danie\\...')
+#2 C:\Users\danie\Local Sites\dreammarketing\app\public\index.php(17): require('C:\\Users\\danie\\...')
+#3 {main}
+  thrown in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 130
+[30-May-2021 12:15:12 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 129
+[30-May-2021 12:15:12 UTC] PHP Stack trace:
+[30-May-2021 12:15:12 UTC] PHP   1. {main}() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:0
+[30-May-2021 12:15:12 UTC] PHP   2. require() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:17
+[30-May-2021 12:15:12 UTC] PHP   3. require_once() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php:19
+[30-May-2021 12:15:12 UTC] PHP   4. include() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php:106
+[30-May-2021 12:15:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_field() in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php:130
+Stack trace:
+#0 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php(19): require_once('C:\\Users\\danie\\...')
+#2 C:\Users\danie\Local Sites\dreammarketing\app\public\index.php(17): require('C:\\Users\\danie\\...')
+#3 {main}
+  thrown in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 130
+[30-May-2021 12:15:52 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 129
+[30-May-2021 12:15:52 UTC] PHP Stack trace:
+[30-May-2021 12:15:52 UTC] PHP   1. {main}() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:0
+[30-May-2021 12:15:52 UTC] PHP   2. require() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:17
+[30-May-2021 12:15:52 UTC] PHP   3. require_once() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php:19
+[30-May-2021 12:15:52 UTC] PHP   4. include() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php:106
+[30-May-2021 12:15:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_field() in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php:130
+Stack trace:
+#0 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php(19): require_once('C:\\Users\\danie\\...')
+#2 C:\Users\danie\Local Sites\dreammarketing\app\public\index.php(17): require('C:\\Users\\danie\\...')
+#3 {main}
+  thrown in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 130
+[30-May-2021 12:15:55 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 129
+[30-May-2021 12:15:55 UTC] PHP Stack trace:
+[30-May-2021 12:15:55 UTC] PHP   1. {main}() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:0
+[30-May-2021 12:15:55 UTC] PHP   2. require() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:17
+[30-May-2021 12:15:55 UTC] PHP   3. require_once() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php:19
+[30-May-2021 12:15:55 UTC] PHP   4. include() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php:106
+[30-May-2021 12:15:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_field() in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php:130
+Stack trace:
+#0 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php(19): require_once('C:\\Users\\danie\\...')
+#2 C:\Users\danie\Local Sites\dreammarketing\app\public\index.php(17): require('C:\\Users\\danie\\...')
+#3 {main}
+  thrown in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 130
+[30-May-2021 12:16:40 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 129
+[30-May-2021 12:16:40 UTC] PHP Stack trace:
+[30-May-2021 12:16:40 UTC] PHP   1. {main}() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:0
+[30-May-2021 12:16:40 UTC] PHP   2. require() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:17
+[30-May-2021 12:16:40 UTC] PHP   3. require_once() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php:19
+[30-May-2021 12:16:40 UTC] PHP   4. include() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php:106
+[30-May-2021 12:16:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_field() in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php:130
+Stack trace:
+#0 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php(19): require_once('C:\\Users\\danie\\...')
+#2 C:\Users\danie\Local Sites\dreammarketing\app\public\index.php(17): require('C:\\Users\\danie\\...')
+#3 {main}
+  thrown in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 130
+[30-May-2021 12:16:42 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 129
+[30-May-2021 12:16:42 UTC] PHP Stack trace:
+[30-May-2021 12:16:42 UTC] PHP   1. {main}() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:0
+[30-May-2021 12:16:42 UTC] PHP   2. require() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:17
+[30-May-2021 12:16:42 UTC] PHP   3. require_once() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php:19
+[30-May-2021 12:16:42 UTC] PHP   4. include() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php:106
+[30-May-2021 12:16:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_field() in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php:130
+Stack trace:
+#0 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php(19): require_once('C:\\Users\\danie\\...')
+#2 C:\Users\danie\Local Sites\dreammarketing\app\public\index.php(17): require('C:\\Users\\danie\\...')
+#3 {main}
+  thrown in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 130
+[30-May-2021 12:17:05 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 129
+[30-May-2021 12:17:05 UTC] PHP Stack trace:
+[30-May-2021 12:17:05 UTC] PHP   1. {main}() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:0
+[30-May-2021 12:17:05 UTC] PHP   2. require() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:17
+[30-May-2021 12:17:05 UTC] PHP   3. require_once() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php:19
+[30-May-2021 12:17:05 UTC] PHP   4. include() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php:106
+[30-May-2021 12:17:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_field() in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php:130
+Stack trace:
+#0 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php(19): require_once('C:\\Users\\danie\\...')
+#2 C:\Users\danie\Local Sites\dreammarketing\app\public\index.php(17): require('C:\\Users\\danie\\...')
+#3 {main}
+  thrown in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 130
+[30-May-2021 12:20:09 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\functions.php on line 13
+[30-May-2021 12:21:54 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\functions.php on line 15
+[30-May-2021 12:22:01 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\functions.php on line 15
+[30-May-2021 12:22:01 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\functions.php on line 15
+[30-May-2021 12:22:05 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\functions.php on line 15
+[30-May-2021 12:22:05 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\functions.php on line 15
+[30-May-2021 12:25:16 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\functions.php on line 15
+[30-May-2021 12:27:01 UTC] PHP Parse error:  syntax error, unexpected ''labels'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\functions.php on line 15
+[30-May-2021 12:27:04 UTC] PHP Parse error:  syntax error, unexpected ''labels'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\functions.php on line 15
+[30-May-2021 12:27:04 UTC] PHP Parse error:  syntax error, unexpected ''labels'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\functions.php on line 15
+[30-May-2021 12:34:02 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 129
+[30-May-2021 12:34:02 UTC] PHP Stack trace:
+[30-May-2021 12:34:02 UTC] PHP   1. {main}() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:0
+[30-May-2021 12:34:02 UTC] PHP   2. require() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:17
+[30-May-2021 12:34:02 UTC] PHP   3. require_once() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php:19
+[30-May-2021 12:34:02 UTC] PHP   4. include() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php:106
+[30-May-2021 12:34:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_field() in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php:130
+Stack trace:
+#0 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php(19): require_once('C:\\Users\\danie\\...')
+#2 C:\Users\danie\Local Sites\dreammarketing\app\public\index.php(17): require('C:\\Users\\danie\\...')
+#3 {main}
+  thrown in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 130
+[30-May-2021 12:41:47 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 129
+[30-May-2021 12:41:47 UTC] PHP Stack trace:
+[30-May-2021 12:41:47 UTC] PHP   1. {main}() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:0
+[30-May-2021 12:41:47 UTC] PHP   2. require() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:17
+[30-May-2021 12:41:47 UTC] PHP   3. require_once() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php:19
+[30-May-2021 12:41:47 UTC] PHP   4. include() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php:106
+[30-May-2021 12:41:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_field() in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php:130
+Stack trace:
+#0 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php(19): require_once('C:\\Users\\danie\\...')
+#2 C:\Users\danie\Local Sites\dreammarketing\app\public\index.php(17): require('C:\\Users\\danie\\...')
+#3 {main}
+  thrown in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 130
+[30-May-2021 12:48:48 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 129
+[30-May-2021 12:48:48 UTC] PHP Stack trace:
+[30-May-2021 12:48:48 UTC] PHP   1. {main}() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:0
+[30-May-2021 12:48:48 UTC] PHP   2. require() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:17
+[30-May-2021 12:48:48 UTC] PHP   3. require_once() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php:19
+[30-May-2021 12:48:48 UTC] PHP   4. include() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php:106
+[30-May-2021 12:48:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_field() in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php:130
+Stack trace:
+#0 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php(19): require_once('C:\\Users\\danie\\...')
+#2 C:\Users\danie\Local Sites\dreammarketing\app\public\index.php(17): require('C:\\Users\\danie\\...')
+#3 {main}
+  thrown in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 130
+[30-May-2021 12:53:55 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 129
+[30-May-2021 12:53:55 UTC] PHP Stack trace:
+[30-May-2021 12:53:55 UTC] PHP   1. {main}() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:0
+[30-May-2021 12:53:55 UTC] PHP   2. require() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:17
+[30-May-2021 12:53:55 UTC] PHP   3. require_once() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php:19
+[30-May-2021 12:53:55 UTC] PHP   4. include() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php:106
+[30-May-2021 12:53:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_field() in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php:130
+Stack trace:
+#0 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php(19): require_once('C:\\Users\\danie\\...')
+#2 C:\Users\danie\Local Sites\dreammarketing\app\public\index.php(17): require('C:\\Users\\danie\\...')
+#3 {main}
+  thrown in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 130
+[30-May-2021 12:57:03 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 129
+[30-May-2021 12:57:03 UTC] PHP Stack trace:
+[30-May-2021 12:57:03 UTC] PHP   1. {main}() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:0
+[30-May-2021 12:57:03 UTC] PHP   2. require() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:17
+[30-May-2021 12:57:03 UTC] PHP   3. require_once() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php:19
+[30-May-2021 12:57:03 UTC] PHP   4. include() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php:106
+[30-May-2021 12:57:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_field() in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php:130
+Stack trace:
+#0 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php(19): require_once('C:\\Users\\danie\\...')
+#2 C:\Users\danie\Local Sites\dreammarketing\app\public\index.php(17): require('C:\\Users\\danie\\...')
+#3 {main}
+  thrown in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 130
+[30-May-2021 12:57:07 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 129
+[30-May-2021 12:57:07 UTC] PHP Stack trace:
+[30-May-2021 12:57:07 UTC] PHP   1. {main}() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:0
+[30-May-2021 12:57:07 UTC] PHP   2. require() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:17
+[30-May-2021 12:57:07 UTC] PHP   3. require_once() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php:19
+[30-May-2021 12:57:07 UTC] PHP   4. include() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php:106
+[30-May-2021 12:57:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_field() in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php:130
+Stack trace:
+#0 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php(19): require_once('C:\\Users\\danie\\...')
+#2 C:\Users\danie\Local Sites\dreammarketing\app\public\index.php(17): require('C:\\Users\\danie\\...')
+#3 {main}
+  thrown in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 130
+[30-May-2021 12:57:21 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 129
+[30-May-2021 12:57:21 UTC] PHP Stack trace:
+[30-May-2021 12:57:21 UTC] PHP   1. {main}() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:0
+[30-May-2021 12:57:21 UTC] PHP   2. require() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:17
+[30-May-2021 12:57:21 UTC] PHP   3. require_once() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php:19
+[30-May-2021 12:57:21 UTC] PHP   4. include() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php:106
+[30-May-2021 12:57:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_field() in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php:130
+Stack trace:
+#0 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php(19): require_once('C:\\Users\\danie\\...')
+#2 C:\Users\danie\Local Sites\dreammarketing\app\public\index.php(17): require('C:\\Users\\danie\\...')
+#3 {main}
+  thrown in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 130
+[30-May-2021 13:01:00 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 164
+[30-May-2021 13:02:04 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 130
+[30-May-2021 13:02:04 UTC] PHP Stack trace:
+[30-May-2021 13:02:04 UTC] PHP   1. {main}() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:0
+[30-May-2021 13:02:04 UTC] PHP   2. require() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:17
+[30-May-2021 13:02:04 UTC] PHP   3. require_once() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php:19
+[30-May-2021 13:02:04 UTC] PHP   4. include() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php:106
+[30-May-2021 13:02:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_field() in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php:131
+Stack trace:
+#0 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php(19): require_once('C:\\Users\\danie\\...')
+#2 C:\Users\danie\Local Sites\dreammarketing\app\public\index.php(17): require('C:\\Users\\danie\\...')
+#3 {main}
+  thrown in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 131
+[30-May-2021 13:05:23 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 130
+[30-May-2021 13:05:23 UTC] PHP Stack trace:
+[30-May-2021 13:05:23 UTC] PHP   1. {main}() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:0
+[30-May-2021 13:05:23 UTC] PHP   2. require() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:17
+[30-May-2021 13:05:23 UTC] PHP   3. require_once() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php:19
+[30-May-2021 13:05:23 UTC] PHP   4. include() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php:106
+[30-May-2021 13:05:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_field() in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php:131
+Stack trace:
+#0 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php(19): require_once('C:\\Users\\danie\\...')
+#2 C:\Users\danie\Local Sites\dreammarketing\app\public\index.php(17): require('C:\\Users\\danie\\...')
+#3 {main}
+  thrown in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 131
+[30-May-2021 13:05:47 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 130
+[30-May-2021 13:05:47 UTC] PHP Stack trace:
+[30-May-2021 13:05:47 UTC] PHP   1. {main}() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:0
+[30-May-2021 13:05:47 UTC] PHP   2. require() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:17
+[30-May-2021 13:05:47 UTC] PHP   3. require_once() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php:19
+[30-May-2021 13:05:47 UTC] PHP   4. include() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php:106
+[30-May-2021 13:05:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_field() in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php:131
+Stack trace:
+#0 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php(19): require_once('C:\\Users\\danie\\...')
+#2 C:\Users\danie\Local Sites\dreammarketing\app\public\index.php(17): require('C:\\Users\\danie\\...')
+#3 {main}
+  thrown in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 131
+[30-May-2021 13:07:39 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 130
+[30-May-2021 13:07:39 UTC] PHP Stack trace:
+[30-May-2021 13:07:39 UTC] PHP   1. {main}() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:0
+[30-May-2021 13:07:39 UTC] PHP   2. require() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:17
+[30-May-2021 13:07:39 UTC] PHP   3. require_once() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php:19
+[30-May-2021 13:07:39 UTC] PHP   4. include() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php:106
+[30-May-2021 13:07:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_field() in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php:131
+Stack trace:
+#0 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php(19): require_once('C:\\Users\\danie\\...')
+#2 C:\Users\danie\Local Sites\dreammarketing\app\public\index.php(17): require('C:\\Users\\danie\\...')
+#3 {main}
+  thrown in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 131
+[30-May-2021 13:07:54 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 164
+[30-May-2021 13:07:57 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 164
+[30-May-2021 13:08:09 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 130
+[30-May-2021 13:08:09 UTC] PHP Stack trace:
+[30-May-2021 13:08:09 UTC] PHP   1. {main}() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:0
+[30-May-2021 13:08:09 UTC] PHP   2. require() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:17
+[30-May-2021 13:08:09 UTC] PHP   3. require_once() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php:19
+[30-May-2021 13:08:09 UTC] PHP   4. include() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php:106
+[30-May-2021 13:08:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_field() in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php:131
+Stack trace:
+#0 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php(19): require_once('C:\\Users\\danie\\...')
+#2 C:\Users\danie\Local Sites\dreammarketing\app\public\index.php(17): require('C:\\Users\\danie\\...')
+#3 {main}
+  thrown in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 131
+[30-May-2021 13:08:30 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 130
+[30-May-2021 13:08:30 UTC] PHP Stack trace:
+[30-May-2021 13:08:30 UTC] PHP   1. {main}() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:0
+[30-May-2021 13:08:30 UTC] PHP   2. require() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:17
+[30-May-2021 13:08:30 UTC] PHP   3. require_once() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php:19
+[30-May-2021 13:08:30 UTC] PHP   4. include() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php:106
+[30-May-2021 13:08:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_field() in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php:131
+Stack trace:
+#0 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php(19): require_once('C:\\Users\\danie\\...')
+#2 C:\Users\danie\Local Sites\dreammarketing\app\public\index.php(17): require('C:\\Users\\danie\\...')
+#3 {main}
+  thrown in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 131
+[30-May-2021 13:08:51 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 130
+[30-May-2021 13:08:51 UTC] PHP Stack trace:
+[30-May-2021 13:08:51 UTC] PHP   1. {main}() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:0
+[30-May-2021 13:08:51 UTC] PHP   2. require() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:17
+[30-May-2021 13:08:51 UTC] PHP   3. require_once() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php:19
+[30-May-2021 13:08:51 UTC] PHP   4. include() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php:106
+[30-May-2021 13:08:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_field() in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php:131
+Stack trace:
+#0 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php(19): require_once('C:\\Users\\danie\\...')
+#2 C:\Users\danie\Local Sites\dreammarketing\app\public\index.php(17): require('C:\\Users\\danie\\...')
+#3 {main}
+  thrown in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 131
+[30-May-2021 13:09:30 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 130
+[30-May-2021 13:09:30 UTC] PHP Stack trace:
+[30-May-2021 13:09:30 UTC] PHP   1. {main}() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:0
+[30-May-2021 13:09:30 UTC] PHP   2. require() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:17
+[30-May-2021 13:09:30 UTC] PHP   3. require_once() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php:19
+[30-May-2021 13:09:30 UTC] PHP   4. include() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php:106
+[30-May-2021 13:09:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_field() in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php:131
+Stack trace:
+#0 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php(19): require_once('C:\\Users\\danie\\...')
+#2 C:\Users\danie\Local Sites\dreammarketing\app\public\index.php(17): require('C:\\Users\\danie\\...')
+#3 {main}
+  thrown in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 131
+[30-May-2021 13:10:10 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 130
+[30-May-2021 13:10:10 UTC] PHP Stack trace:
+[30-May-2021 13:10:10 UTC] PHP   1. {main}() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:0
+[30-May-2021 13:10:10 UTC] PHP   2. require() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:17
+[30-May-2021 13:10:10 UTC] PHP   3. require_once() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php:19
+[30-May-2021 13:10:10 UTC] PHP   4. include() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php:106
+[30-May-2021 13:10:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_field() in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php:131
+Stack trace:
+#0 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php(19): require_once('C:\\Users\\danie\\...')
+#2 C:\Users\danie\Local Sites\dreammarketing\app\public\index.php(17): require('C:\\Users\\danie\\...')
+#3 {main}
+  thrown in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 131
+[30-May-2021 17:09:55 UTC] PHP Parse error:  syntax error, unexpected ''public'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\mu-plugins\dream-post-types.php on line 5
+[31-May-2021 18:53:28 UTC] PHP Warning:  Use of undefined constant hello - assumed 'hello' (this will throw an Error in a future version of PHP) in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\page.php on line 14
+[31-May-2021 18:53:28 UTC] PHP Stack trace:
+[31-May-2021 18:53:28 UTC] PHP   1. {main}() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:0
+[31-May-2021 18:53:28 UTC] PHP   2. require() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:17
+[31-May-2021 18:53:28 UTC] PHP   3. require_once() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php:19
+[31-May-2021 18:53:28 UTC] PHP   4. include() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php:106
+[31-May-2021 18:53:31 UTC] PHP Warning:  Use of undefined constant hello - assumed 'hello' (this will throw an Error in a future version of PHP) in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\page.php on line 14
+[31-May-2021 18:53:31 UTC] PHP Stack trace:
+[31-May-2021 18:53:31 UTC] PHP   1. {main}() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:0
+[31-May-2021 18:53:31 UTC] PHP   2. require() C:\Users\danie\Local Sites\dreammarketing\app\public\index.php:17
+[31-May-2021 18:53:31 UTC] PHP   3. require_once() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-blog-header.php:19
+[31-May-2021 18:53:31 UTC] PHP   4. include() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\template-loader.php:106
+[31-May-2021 20:43:10 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 72
+[31-May-2021 20:43:34 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-content\themes\dream-marketing-theme\front-page.php on line 72
+[01-Jun-2021 06:21:29 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\update.php on line 175
+[01-Jun-2021 06:21:29 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\update.php on line 175
+[01-Jun-2021 06:21:29 UTC] PHP Stack trace:
+[01-Jun-2021 06:21:29 UTC] PHP Stack trace:
+[01-Jun-2021 06:21:29 UTC] PHP   1. {main}() C:\Users\danie\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[01-Jun-2021 06:21:29 UTC] PHP   2. include() C:\Users\danie\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[01-Jun-2021 06:21:29 UTC] PHP   1. {main}() C:\Users\danie\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[01-Jun-2021 06:21:29 UTC] PHP   2. include() C:\Users\danie\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[01-Jun-2021 06:21:29 UTC] PHP   3. include() phar://C:/Users/danie/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[01-Jun-2021 06:21:29 UTC] PHP   3. include() phar://C:/Users/danie/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[01-Jun-2021 06:21:29 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Users/danie/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[01-Jun-2021 06:21:29 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Users/danie/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[01-Jun-2021 06:21:29 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Users/danie/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[01-Jun-2021 06:21:29 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Users/danie/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[01-Jun-2021 06:21:29 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Users/danie/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[01-Jun-2021 06:21:29 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Users/danie/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[01-Jun-2021 06:21:29 UTC] PHP   7. WP_CLI\Runner->run_command_and_exit() phar://C:/Users/danie/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1160
+[01-Jun-2021 06:21:29 UTC] PHP   7. WP_CLI\Runner->run_command_and_exit() phar://C:/Users/danie/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1160
+[01-Jun-2021 06:21:29 UTC] PHP   8. WP_CLI\Runner->run_command() phar://C:/Users/danie/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:394
+[01-Jun-2021 06:21:29 UTC] PHP   8. WP_CLI\Runner->run_command() phar://C:/Users/danie/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:394
+[01-Jun-2021 06:21:29 UTC] PHP   9. WP_CLI\Dispatcher\Subcommand->invoke() phar://C:/Users/danie/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:371
+[01-Jun-2021 06:21:29 UTC] PHP   9. WP_CLI\Dispatcher\Subcommand->invoke() phar://C:/Users/danie/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:371
+[01-Jun-2021 06:21:29 UTC] PHP  10. call_user_func:{phar://C:/Users/danie/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:451}() phar://C:/Users/danie/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:451
+[01-Jun-2021 06:21:29 UTC] PHP  10. call_user_func:{phar://C:/Users/danie/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:451}() phar://C:/Users/danie/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:451
+[01-Jun-2021 06:21:29 UTC] PHP  11. WP_CLI\Dispatcher\CommandFactory::WP_CLI\Dispatcher\{closure:phar://C:/Users/danie/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:95-102}() phar://C:/Users/danie/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:451
+[01-Jun-2021 06:21:29 UTC] PHP  11. WP_CLI\Dispatcher\CommandFactory::WP_CLI\Dispatcher\{closure:phar://C:/Users/danie/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:95-102}() phar://C:/Users/danie/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:451
+[01-Jun-2021 06:21:29 UTC] PHP  12. call_user_func:{phar://C:/Users/danie/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:98}() phar://C:/Users/danie/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:98
+[01-Jun-2021 06:21:29 UTC] PHP  12. call_user_func:{phar://C:/Users/danie/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:98}() phar://C:/Users/danie/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:98
+[01-Jun-2021 06:21:29 UTC] PHP  13. Core_Command->check_update() phar://C:/Users/danie/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:98
+[01-Jun-2021 06:21:29 UTC] PHP  13. Core_Command->check_update() phar://C:/Users/danie/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:98
+[01-Jun-2021 06:21:29 UTC] PHP  14. Core_Command->get_updates() phar://C:/Users/danie/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/core-command/src/Core_Command.php:77
+[01-Jun-2021 06:21:29 UTC] PHP  14. Core_Command->get_updates() phar://C:/Users/danie/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/core-command/src/Core_Command.php:77
+[01-Jun-2021 06:21:29 UTC] PHP  15. wp_version_check() phar://C:/Users/danie/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/core-command/src/Core_Command.php:1297
+[01-Jun-2021 06:21:29 UTC] PHP  15. wp_version_check() phar://C:/Users/danie/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/core-command/src/Core_Command.php:1297
+[01-Jun-2021 06:21:29 UTC] PHP  16. trigger_error() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\update.php:175
+[01-Jun-2021 06:21:29 UTC] PHP  16. trigger_error() C:\Users\danie\Local Sites\dreammarketing\app\public\wp-includes\update.php:175

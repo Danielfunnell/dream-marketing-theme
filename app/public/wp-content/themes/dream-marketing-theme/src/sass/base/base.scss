@@ -1,0 +1,25 @@
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body {
+    overflow-x: hidden;
+    box-sizing: border-box;
+    
+}
+
+section{
+    padding-top: 5.79rem;
+}
+
+span{
+    color: $color-primary;
+}

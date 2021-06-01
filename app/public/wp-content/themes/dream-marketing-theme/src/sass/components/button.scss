@@ -1,0 +1,19 @@
+.btn-primary {
+    background-color: $color-primary !important;
+    border-radius: 200px !important;
+
+    &:hover{
+        filter: brightness(1.2) !important;
+    }
+}
+
+.btn-outline-primary {
+    border-radius: 200px !important;
+    border-color: $color-primary !important;
+    color: $color-primary !important;
+
+    &:hover{
+        filter: brightness(1.2) !important;
+        color: white !important;
+    }
+}
