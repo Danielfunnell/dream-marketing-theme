@@ -23,7 +23,7 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item active">
-                <a class="nav-link navigation__link" href="#about">What We Do<span class="sr-only">(current)</span></a>
+                <a class="nav-link navigation__link" href="<?php echo home_url('#about');?>">What We Do<span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
                 <a class="nav-link navigation__link" href="<?php echo site_url('vehicle-layout');?>">Vehicle Layout</a>
@@ -32,7 +32,7 @@
                 <a class="nav-link navigation__link" href="<?php echo site_url('testimonial');?>">Testimonials</a>
                 </li>
                 <li class="nav-item">
-                <a class="nav-link navigation__link" href="#contact-us">Contact Us</a>
+                <a class="nav-link navigation__link" href="<?php echo home_url('#contact-us');?>">Contact Us</a>
                 </li>
             </ul>
 
